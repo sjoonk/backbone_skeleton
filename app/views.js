@@ -14,6 +14,7 @@ App.views = App.views || {};
 				var html = tmpl(that.collection.toJSON());
 				that.$el.html(html);
 			});
+			return this;
 		}
 	});
 
@@ -24,6 +25,7 @@ App.views = App.views || {};
 				var html = tmpl(that.model.toJSON());
 				that.$el.html(html);
 			});
+			return this;
 		}
 	});
 
