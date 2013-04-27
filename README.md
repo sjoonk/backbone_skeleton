@@ -1,4 +1,4 @@
-Backbone Skeleton README
+Backbone Skeleton: just a try
 =====
 
 To Run:
